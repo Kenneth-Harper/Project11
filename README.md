@@ -1,13 +1,13 @@
-# Project Name
+# Project 11
 
-Description of the project ...
+This project was an exploration into React native.
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] User sees ...
-* [ ] User can ...
+* [ ] User can navigate between different screens.
+* [ ] User can login or create an account.
 * [ ] ...
 * [ ] ...
 
@@ -22,15 +22,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning a language I have never dealt with in the span of a week during one of the most intense periods of the semester was definitely challenging. Also, I had to completely restart multiple times because of improper installations, usually caused by a lack of up-to-date guidance.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Kenneth Harper]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
